@@ -98,8 +98,13 @@ img{
 }
 
 /* ================= Reusable CSS Classes ===========*/
+section{
+    position: relative ;
+    min-height: 100vh;
+}
+
 .container{
-  /* max-width: 1080px; */
+  max-width: 1080px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
