@@ -1,3 +1,9 @@
+.portfolio{
+    background: url("../../assets/portfolioBackground.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
 .work__filters{
     display: flex;
     align-items: center;

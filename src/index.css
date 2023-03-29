@@ -98,11 +98,6 @@ img{
 }
 
 /* ================= Reusable CSS Classes ===========*/
-section{
-    position: relative ;
-    min-height: 100vh;
-    min-width: 100ch;
-}
 
 .container{
   max-width: 1080px;
@@ -116,6 +111,9 @@ section{
 }
 
 .section{
+  position: relative ;
+  min-height: 100vh;
+  min-width: 100ch;
   padding-top: 7rem;
   padding-bottom: 2rem;
 }
