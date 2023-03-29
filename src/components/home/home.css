@@ -31,7 +31,7 @@
 
 .home__social-link{
     color: var(--title-color);
-    font-size: 1.3rem;
+    font-size: x-large;
     transition: 0.3s;
     margin: auto;
 }
