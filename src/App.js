@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Sidebar from "./components/sidebar/Sidebar"
 import Home from "./components/home/Home";
@@ -10,6 +9,7 @@ import Pricing from "./components/pricing/Pricing";
 import Blog from "./components/blog/Blog";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
+
 
 // eslint-disable-next-line react/display-name
 const App = () => (
